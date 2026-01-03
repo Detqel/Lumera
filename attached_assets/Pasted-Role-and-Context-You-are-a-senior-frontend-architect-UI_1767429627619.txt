@@ -1,0 +1,44 @@
+Role and Context
+You are a senior frontend architect, UI UX designer, and motion focused web engineer. Design and build a modern, grand, content rich, smooth animated restaurant website that represents a premium dining brand. The website must communicate cuisine, ambience, story, and hospitality through immersive visuals, rich content, and refined motion. The experience should feel elegant, cinematic, and trustworthy while remaining highly usable and readable.
+
+Core Objectives
+Create a large scale restaurant website with substantial content across multiple pages. The design must balance rich textual content with high quality visuals and smooth animations. Motion should enhance storytelling, guide user attention, and elevate the brand experience without distracting from content. The final output must be production ready, fast, scalable, and SEO friendly.
+
+Technology Stack and Rules
+Develop the project using Next.js with modern JavaScript. Use GSAP as the primary animation engine and GSAP ScrollTrigger for scroll based animations. Additional libraries may be used where appropriate, such as Lenis or Locomotive Scroll for smooth scrolling, Swiper for carousels and galleries, and Map libraries for location display. Code must be clean, modular, reusable, and fully responsive across desktop, tablet, and mobile. Ensure optimized images, smooth scrolling, and zero console errors.
+
+Global Design System
+The visual identity must feel grand, refined, and restaurant focused. Use a dark, neutral, or warm base color palette with one or two elegant accent colors inspired by cuisine or brand identity. Typography should combine a sophisticated display font for headings with a highly readable sans serif for body text. Apply consistent spacing, grid systems, soft shadows, rounded elements, and subtle glass or blur effects where appropriate. Maintain a cohesive design language across all pages.
+
+Pages Overview
+The website must include six fully developed content rich pages. Each page should contain meaningful text, imagery, and structured sections supported by smooth animations. All pages must share a unified motion language, consistent animation timing, and cohesive visual flow.
+
+Home Page
+The home page must open with a full screen cinematic hero section showcasing the restaurant ambience or signature dishes. Include animated headlines, introductory paragraphs, and call to action buttons using GSAP timelines. Follow with multiple content sections such as chef highlights, philosophy, featured dishes, testimonials, and reservation prompts. Use scroll triggered reveals, subtle parallax backgrounds, and smooth transitions between sections to create a grand first impression.
+
+About Page
+The about page should present a detailed story of the restaurant. Include sections covering the brand philosophy, history, culinary vision, and team or chef profiles. Use split layouts with text and imagery. Apply scroll triggered animations to paragraphs, images, and dividers. Subtle parallax motion on background elements should add depth while preserving readability.
+
+Menu Page
+The menu page must be content heavy and well structured. Organize content into clear sections such as starters, mains, desserts, beverages, and specials. Use elegant typography and spacing for readability. Animate section headings, category transitions, and item reveals using calm, refined motion. Optional filters or tabs may be used for different cuisines or dietary preferences, with smooth animated transitions.
+
+Gallery Page
+The gallery page should visually showcase food, interiors, events, and dining experiences. Use image grids, sliders, and lightbox interactions. Implement smooth scrolling and scroll synced animations to create an immersive browsing experience. Animations should feel fluid and cinematic, allowing visuals to take center stage with minimal supporting text.
+
+Events and Private Dining Page
+This page should highlight events, catering services, and private dining offerings. Include detailed content explaining event types, capacities, menus, and booking processes. Use structured sections with animated entrances, icon supported highlights, and visual separators. Motion should support content clarity and emphasize key offerings.
+
+Contact and Reservations Page
+The contact page must include detailed contact information, location, opening hours, and a reservation or inquiry form. Use animated input fields, floating labels, and smooth focus states. GSAP should handle form interactions, validation feedback, and submission animations. Include maps or location visuals with subtle entrance animations. End with a refined footer featuring gentle motion effects.
+
+Navigation and User Experience
+Use a sticky navigation bar with elegant animations and clear hierarchy. Navigation links should animate on hover and clearly indicate the active page. Implement smooth animated page transitions compatible with Next.js routing. Ensure scrolling, navigation, and interactions remain fluid and intuitive across all devices.
+
+Animation Guidelines
+All animations must be orchestrated using GSAP timelines for consistency. Scroll based animations should be controlled using ScrollTrigger integrated with smooth scrolling libraries if used. Maintain consistent easing and duration across the website. Motion should feel slow, smooth, and refined, enhancing the sense of luxury and professionalism.
+
+Deliverables
+Deliver a fully functional Next.js project with six complete pages, reusable components, shared styling, and modular animation logic. All animation code must be well organized and commented. The website must be fully responsive, visually polished, content rich, SEO friendly, and ready for production deployment.
+
+Final Instruction
+Build this website as if it were for a flagship luxury restaurant or fine dining brand. Prioritize rich content, elegant motion, immersive visuals, and a smooth, grand user experience that communicates quality, taste, and hospitality.
