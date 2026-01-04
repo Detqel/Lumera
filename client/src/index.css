@@ -25,7 +25,7 @@
   --color-ring: hsl(var(--ring));
   
   --font-sans: 'Montserrat', sans-serif;
-  --font-serif: 'Cormorant Garamond', serif;
+  --font-serif: 'Montserrat', sans-serif;
   
   --radius-sm: calc(var(--radius) - 2px);
   --radius-md: var(--radius);

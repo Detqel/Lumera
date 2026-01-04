@@ -53,7 +53,7 @@ export default function About() {
               <h3 className="text-primary text-sm uppercase tracking-[0.2em] mb-4">The Beginning</h3>
               <h2 className="text-3xl md:text-4xl font-serif text-white mb-6">A Vision of Excellence</h2>
               <p className="text-white/70 leading-relaxed font-light">
-                Founded in 2010, Lumière began as a small bistro with a big dream: to redefine modern dining. Over the years, we have evolved, but our core mission remains unchanged—to create unforgettable moments through food.
+                Founded in 2025, Lumière began as a small bistro with a big dream: to redefine modern dining. Over the years, we have evolved, but our core mission remains unchanged—to create unforgettable moments through food.
               </p>
             </div>
             
